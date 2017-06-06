@@ -1,0 +1,10 @@
+{
+  "Server":{
+    "Url": "0.0.0.0",
+    "Port": "3000",
+    "Root": ""
+  },
+  "Proxy":{
+    "BaseUrl": "https://dummy.com"
+  }
+}
